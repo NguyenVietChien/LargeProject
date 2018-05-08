@@ -24,6 +24,7 @@ void play(){
 int main()
 {
 	while(1){
+		
 		//PlaySound (TEXT ( "playmusic" ), NULL, SND_ASYNC);
     	int decide;    // replay or not ?
     	play();
